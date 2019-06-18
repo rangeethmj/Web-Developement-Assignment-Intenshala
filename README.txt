@@ -1,9 +1,9 @@
-This repository contains files for Internshala's Web Developement training assignment-1.
-(HTML_CSS Assignment).
+This repository contains files for Internshala's Web Developement training. 
+
+I. 	Assignment-1 (HTML+CSS0
  
-
+ 
  Files Included:-
-
 
 	1)index.html
 	2)index.css
@@ -18,14 +18,14 @@ This repository contains files for Internshala's Web Developement training assig
 
 For any enquiries contact:
 
-Github: rangeethmj
+   Github: rangeethmj
 
 ------------------------------------------------------------------------------------------
 
 
 
 LICENSE AND COPYRIGHT: 
-	All the images used for this project are representational images. Internshala holds no copyright over these images. 
+    All the images used for this project are representational images. Internshala holds no copyright over these images. 
 
 
 TRADEMARKS:
