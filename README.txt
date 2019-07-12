@@ -13,7 +13,45 @@ I. 	Assignment-1 (HTML+CSS)
 	6)shirt.jpg
 	7)HTML_CSS Assignment.pdf
 	
+2. 	Assignment-1 (Bootstrap)
 
+ Files Included:-
+ 
+	1)index2.html
+	2)css
+	  |_img
+	      |_intro-bg_1.jpg
+	      |_menshirt.jpg
+	      |_shirt.jpg
+	      |_camera.jpg
+	      |_watch.jpg
+	      |_2.jpg
+	      |_3.jpg
+	      |_4.jpg
+	      |_5.jpg
+	      |_6.jpg
+	      |_9.jpg
+	      |_10.jpg
+	      |_11.jpg
+	      |_12.jpg
+	      |_13.jpg
+	      |_14.jpg	      
+	  |_index2.css
+	  
+	3)bootstrap
+	  |_css 
+	      |_bootstrap-min.css
+	     
+	  |_js
+	      |_bootstrap.min.js
+	4)cart.html
+	5)login.html
+	6)products.html
+	7)settings.html
+	8)signup.html
+	9)success.html
+	10)BootstrapAssignment.pdf
+	
 ------------------------------------------------------------------------------------------
 
 For any enquiries contact:
