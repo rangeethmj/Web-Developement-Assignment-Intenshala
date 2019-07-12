@@ -67,4 +67,5 @@ LICENSE AND COPYRIGHT:
 
 
 TRADEMARKS:
-    The trademarks of the brands belong to the respective brands and Internshala does not trademark violations. 2.)".Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
+    The trademarks of the brands belong to the respective brands and Internshala does not trademark violations. 
+    2.)".Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
