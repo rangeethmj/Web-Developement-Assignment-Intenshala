@@ -2,7 +2,6 @@ This repository contains files for Internshala's Web Developement training.
 
 I. 	Assignment-1 (HTML+CSS)
  
- 
  Files Included:-
 
 	1)index.html
