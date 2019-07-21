@@ -12,7 +12,7 @@ I. 	Assignment-1 (HTML+CSS)
 	6)shirt.jpg
 	7)HTML_CSS Assignment.pdf
 	
-2. 	Assignment-1 (Bootstrap)
+II. 	Assignment-2 (Bootstrap)
 
  Files Included:-
  
@@ -51,11 +51,21 @@ I. 	Assignment-1 (HTML+CSS)
 	9)success.html
 	10)BootstrapAssignment.pdf
 	
+
+III.	Assignment-3 (SQL)
+
+ Files Included:-
+ 
+	1)store.sql
+	2)MySQL Assignment.pdf
+	
+	
 ------------------------------------------------------------------------------------------
 
 For any enquiries contact:
 
    Github: rangeethmj
+   Instagram: rangeethmj
 
 ------------------------------------------------------------------------------------------
 
@@ -67,4 +77,4 @@ LICENSE AND COPYRIGHT:
 
 TRADEMARKS:
     The trademarks of the brands belong to the respective brands and Internshala does not trademark violations. 
-    2.)".Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
+    2.)"Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
